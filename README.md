@@ -5,10 +5,14 @@ Version: 1.0.1
 Author: CY-Jacker
 
 How to install:
-1. make sure u have java install.
+1. make sure u have java install. [Install java: "apt-get install openjdk-8jdk" . Test java by typing "javac" or "java --version"]
 2. then clone this repository by typing "git clone https://github.com/CY-Jacker/WordGen.git"
-3. after that type "javac WordGen.java"
-4. lastly type "java WordGen.java"
+3. lastly type "java WordGen.java"
 
 This is fully made in java and not in any scripting languages like Python or Bash. That's the reason, it has such a diffrent way of installing.
 PLEASE REPORT BUGS TO ME IN ISSUES SECTION OF GITHUB REPOSITORY AND ALSO SUGGEST ME CHANGES YOU WANT.LET'S MAKE WORDGEN THE BEST WORDLIST CREATOR OUT IN MARKET!!!
+
+Next Update Info: 
+Name: GUI Update
+Version: 1.1.0
+Info: I will add a GUI in the project. I am testing diffrent styles now and also working on diffrent projects.
