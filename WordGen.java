@@ -261,7 +261,7 @@ public class WordGen {
 					}
 				}
 			else
-			System.out.println("Error: Only 8,9,10,11,12 digits supported!");
+			System.out.println("Error: Only 8,9,10,11,12 digits are supported!");
 			
 			break;
 			case 4:
