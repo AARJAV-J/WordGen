@@ -1,20 +1,36 @@
-# WordGen
-WordGen is my first ever github project and is basically a wordlist generator for brute-force password cracking and other uses for password creation. It is designed in java 100% and I have tried to make it one of the most simple wordlist generator so far.
+# WORD-GEN
+**As the name might ring a bell of something related to WordLists, WordGen is actually a WordList Generator that's where it got it's name...
+In its current state, WordGen can be called as java based WordList Generator.**
 
-This is fully made in java and not in any scripting languages like Python or Bash. That's the reason, it has such a diffrent way of installing.
-PLEASE REPORT BUGS TO ME IN ISSUES SECTION OF GITHUB REPOSITORY AND ALSO SUGGEST ME CHANGES YOU WANT.LET'S MAKE WORDGEN THE BEST WORDLIST CREATOR OUT IN MARKET!!!
+WordGen is purely based on Java as a base and uses a different approach to make the WordList.
 
-Version: 1.1.0
-Author: CY-Jacker
 
-How to install:
-1. make sure u have java install. [Install java: "apt-get install openjdk-8jdk" . Test java by typing "javac" or "java --version"]
-2. then clone this repository by typing "git clone https://github.com/CY-Jacker/WordGen.git"
-3. lastly type "java WordGen.java"
-4. Now create your wordlists.
+## Installation
+1. Install Dependencies
+ `sudo apt install openjdk-17`
+2. Now clone the project using git clone
+`git clone https://github.com/CY-Jacker/WordGen.git`
+3. Go to the Folder
+`cd WordGen`
+4. Run the script
+`java WordGen.java`
 
-Changes in V: 1.1.0
+***
 
-1. Numeric List.
-2. Simple and Easier UI.
-3. More controls over wordlist creation.
+
+## Features
+1. It is super easy to use and with each version the devs are focused to make in easier.....
+2. Multiple modes to choose for passwords including- Number only, Entire Random, Keyword Based ,etc..... 
+3. Is in development as of now and will keep improving over time...
+
+***
+
+## Future Goals
+1. Add more modes.
+2. Overhaul the entire algorithm.
+3. Add GUI.
+4. Create a Web-Version of it.
+5. Make it easier.
+6. Make it the best WordList generator.
+
+***
